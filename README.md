@@ -8,8 +8,8 @@ I provide a modified *fit* file that can be upload to some running apps.
 
 ### USAGE
 
-1. Download the *fit* file, , in this repo and upload it to your GARMIN CONNECT account as an activity.
-2. In running apps which enable GARMIN data synchronization, you just need to synchronize your activit created in step 1 to your running app.
+1. Download the *fit* file in this repo and upload it to your GARMIN CONNECT account as an activity.
+2. In running apps which enable GARMIN data synchronization, you just need to synchronize your activity created in step 1 to your running app.
 3. See the result.
 
 ### RESULT
